@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:galeria_componentes/primeraclase.dart';
+import 'package:galeria_componentes/appbar1.dart';
 
 void main() {
   runApp(const MaterialApp(
